@@ -19,7 +19,7 @@
     "@fiberplane/hono": "0.5.2",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.0",
-    "hono": "^4.6.7"
+    "hono": "^4.10.3"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
