@@ -18,6 +18,6 @@
     "sharp": "^0.34.1",
     "starlight-package-managers": "^0.6.0",
     "typescript": "^5.5.4",
-    "wrangler": "^4.4.0"
+    "wrangler": "^4.59.1"
   }
 }
