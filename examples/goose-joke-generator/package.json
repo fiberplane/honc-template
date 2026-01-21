@@ -29,6 +29,6 @@
     "@libsql/client": "^0.15.0",
     "drizzle-kit": "^0.30.5",
     "tsx": "^4.19.2",
-    "wrangler": "^4.4.0"
+    "wrangler": "^4.59.1"
   }
 }
